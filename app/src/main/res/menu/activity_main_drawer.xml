@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/lista_filme"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/raport_filme" />
+        <item
+            android:id="@+id/detalii_cinematograf"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/detalii_cinematograf" />
+        <item
+            android:id="@+id/lista_seriale"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/raport_seriale" />
+        <item
+            android:id="@+id/adauga_film"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/adauga_film"/>
+        <item
+            android:id="@+id/adauga_rating"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="@string/adauga_rating" />
+
+
+
+    </group>
+</menu>

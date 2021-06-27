@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">ProiectFilmeSeriale</string>
+    <string name="nume_aplicatie">Bine ai venit!</string>
+    <string name="login">LOGIN</string>
+    <string name="signin">SIGN IN</string>
+    <string name="titlu">Creare utilizator nou</string>
+    <string name="nume_utilizator">Introduceti numele:</string>
+    <string name="parola">Introduceti parola:</string>
+    <string name="data_nastere">Selectati data nasterii:</string>
+    <string name="creaza_utilizator">Creaza cont</string>
+    <string name="format_data">yyyy-mm-dd</string>
+    <string name="login_titlu">LOGHEAZA-TE</string>
+    <string name="title_activity_activitate_principala">ActivitatePrincipala</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="lista_filme">Lista filme</string>
+    <string name="detalii_cinematograf">Detalii cinematograf</string>
+    <string name="lista_seriale">Lista seriale</string>
+    <string name="adauga_film">Adauga film</string>
+    <string name="adauga_rating">Adauga rating film</string>
+    <string name="setari">Setari</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="titlu_filme">Adauga film</string>
+    <string name="titlu_film">Introdu denumirea filmului:</string>
+    <string name="an_aparitie">Introdu anul aparitiei:</string>
+    <string name="tv_rating">Introdu rating film:</string>
+    <string name="btn_adauga_film">Adauga film</string>
+    <string name="btn_adauga_rating">Adauga rating</string>
+    <string name="raport_filme">Raport filme</string>
+
+    <string name="cv_vazut">Film vizionat</string>
+    <string name="cb_preferat">Film pe care vrei sa il vezi</string>
+    <string name="sterge_cont">"Sterge cont "</string>
+    <string name="tv_seriale">Raport seriale</string>
+    <string name="raport_seriale">Raport seriale</string>
+    <string name="proiect_menu">Meniu aplicatie</string>
+</resources>
